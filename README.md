@@ -55,7 +55,7 @@ Scroll down to the "Installers", and click the one for Windows (choosing to save
 
 Run this executable just as you did the R one above.
 
-___ Awesome! You are now ready to start using R! ___
+___Awesome! You are now ready to start using R!___
 
 ## Mac
 
@@ -80,4 +80,4 @@ Scroll down to the "Installers", and click the one for Mac (choosing to save the
 
 Install this file in the same way as you installed R.
 
-___ Awesome! You are now ready to start using R! ___
+___Awesome! You are now ready to start using R!___
